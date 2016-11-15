@@ -1,0 +1,24 @@
+body {
+	background-color: rgba(143,156,0,0.5);
+}
+
+li {
+	margin: 7px 0px;
+}
+
+li > div {
+	background-color: rgba(0,0,0,0.1);
+    display: inline-block;
+    width: 83%;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 10px;
+}
+
+.devoured div {
+	width: 100%;
+}
+
+img {
+	width: 70px;
+}
